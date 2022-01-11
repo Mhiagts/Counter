@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mhiagts/repo_name">
-    <img src="img/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">Counter</h3>
@@ -42,9 +42,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="img/screenshot.png">
+<img src="screenshot.png" alt="Screenshot" width="400" height="250">
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+This is a simple counter app made with HTML, CSS and JS. <br/>
+It has a + (increase) and a - (decrease) and also a RESET button. <br/>
+It can display positive (which will be displayed green) and negative (which will be displayed red) numbers depending on which button you click on.
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -81,9 +84,23 @@ for a local copy of the project on your pc simply clone the github repo
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+You can use this app for counting positive numbers just by clicking on + <br/>
+<br/>
+<img src="screenplus.png" alt="Plus" width="200" height="200" >
+<br/>
+<br/>
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+or nevative numbers by clicking on - <br/>
+<br/>
+<img src="screenmin.png" alt="Min" width="200" height="200">
+<br/>
+<br/>
+
+If you want to go back to 0 you just have to click on the RESET button or you can reload the page. <br/>
+<br/>
+<img src="screenres.png" alt="Reset" width="200" height="200">
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -100,9 +117,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Elisa Remondini - elisaremondini20@gmail.com
 
-Project Link: [https://github.com/mhiagts/repo_name](https://github.com/mhiagts/repo_name)
+Project Link: https://counter-js-er.netlify.app
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

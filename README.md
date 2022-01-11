@@ -72,7 +72,7 @@ It can display positive (which will be displayed green) and negative (which will
 for a local copy of the project on your pc simply clone the github repo
 1. Clone the repo
    ```sh
-   git clone https://github.com/mhiagts/repo_name.git
+   https://github.com/Mhiagts/Counter
    ```
 2. Open the index.html
 3. Enjoy my counter App!
